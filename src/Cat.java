@@ -23,6 +23,7 @@ public class Cat extends Animal{
         c.setTovush("meow meow");
         System.out.println(c.getTovush());
     }
+
     public void get_Name(){
         Cat c=new Cat();
         c.setName("Tom");
